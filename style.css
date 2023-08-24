@@ -3,7 +3,7 @@
     background-color: rgb(40, 40, 119);
 }
 .row{
-    line-height: 60px;
+    
 }
 .col-md-8{
     text-align: left;
@@ -16,10 +16,10 @@
 .info{
     color:white;
     position: absolute;
-    top: 200px;
+   
 }
 .info h1{
-    font-size: 50px;
+   
 }
 .img img{
     width: 700px;
